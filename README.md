@@ -7,8 +7,6 @@ Built with **HTML, CSS, JavaScript, Bootstrap 5, and jQuery**, it comes with a s
 ---
 
 ## 📷 Screenshots  
-(Add your screenshots here)  
-Example:  
 ![Game Screenshot](1.png)  
 ![Winning Highlight](2.png)  
 
